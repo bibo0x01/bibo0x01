@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Youssef Al-Saeedi </h1>
-<h3 align="center">Software Engineer | Backend Developer | Node.js Enthusiast </h3>
+  <h3 align="center">Software Engineer | Backend Engineer | Node.js Enthusiast </h3>
 
 <!-- Typing Animation -->
 <p align="center">
