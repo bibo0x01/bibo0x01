@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Bibo0x01">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&width=600&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MySQL+%7C+MongoDB;Always+Learning+New+Technologies;Passionate+About+Clean+Code" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&width=600&lines=Backend+Engineer;Node.js+%7C+Express.js+%7C+MySQL+%7C+MongoDB;Always+Learning+New+Technologies;Passionate+About+Clean+Code" />
   </a>
 </p>
 
